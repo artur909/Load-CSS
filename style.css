@@ -5,10 +5,10 @@
 }
 
 .circularG{
+	background-color: #000;
+	height:12px;
 	position:absolute;
-	background-color:#000000;
-	width:11px;
-	height:11px;
+	width:12px;
 	-webkit-border-radius:8px;
 	-moz-border-radius:8px;
 	-webkit-animation-name:bounce_circularG;
